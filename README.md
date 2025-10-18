@@ -40,3 +40,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 💡 understand how route works in nextjs project
 💡 understand how nested route works in nextjs 
+
+💡use navbar in nextjs
