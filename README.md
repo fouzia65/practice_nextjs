@@ -38,4 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Day-1
 
-💡i understand how route works in nextjs project
+💡 understand how route works in nextjs project
+💡 understand how nested route works in nextjs 
